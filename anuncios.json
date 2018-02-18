@@ -1,0 +1,37 @@
+{ "anuncios": [{
+    "nombre": "Playstation4",
+    "venta": true,
+    "precio": 340.50,
+    "foto": "Playstation4.jpeg",
+    "tags": ["lifestyle", "videogames"]
+  },
+  {
+    "nombre": "iPhone X",
+    "venta": true,
+    "precio": 1050.0,
+    "foto": "iphoneX.jpg",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "estanteria Negra X",
+    "venta": true,
+    "precio": 220.0,
+    "foto": "estanteriaNegra.jpg",
+    "tags": ["lifestyle", "home"]
+  },
+  {
+    "nombre": "El qijote",
+    "venta": true,
+    "precio": 30.0,
+    "foto": "ElQuijote.jpeg",
+    "tags": ["lifestyle", "books"]
+  },
+  {
+    "nombre": "Abrigo Hombre",
+    "venta": true,
+    "precio": 120.0,
+    "foto": "AbrigoHombre.jpeg",
+    "tags": ["lifestyle", "fashion"]
+  }
+  
+]}
